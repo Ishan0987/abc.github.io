@@ -1,0 +1,29 @@
+/*selector{
+	prperty: value;
+}*/
+body {
+	background-image: url("1.jpg");
+	 background-size: 720px 640px;
+}
+
+h1{
+	  border-style: groove;
+  border-color:orange ;
+  border-width:3px;
+  color:#ff6600 ;
+    margin: 35px; 
+}
+
+p {
+   margin-right: 45%;
+   margin-left: 20%;
+   font-size: 20px;
+   color: lightblue;
+}
+span{
+	font-size: 2em;
+    font-family: 
+    }
+    button {
+    	margin-left: 50%;
+    }
